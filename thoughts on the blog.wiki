@@ -1,3 +1,0 @@
-(1) like http://tchen.me , using string to seperate intead of blogs
-(2) maybe it is time to cut off the carousel on the top
-(3) Homepage, can there be more information?
