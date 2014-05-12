@@ -1,0 +1,3132 @@
+
+
+---------log message--------
+Wed Nov 13 00:45:10 2013
+The rcp path got from relative program path is: D:\rcp\rcplauncher.exe, which doesn't exist.
+Wed Nov 13 00:45:10 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 13 00:45:10 2013
+Use preference UI Lang is:zh_CN.Wed Nov 13 00:45:10 2013
+ReadProcessMemory fail=299
+Wed Nov 13 00:45:10 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -config symphony '.
+
+
+---------log message--------
+Wed Nov 13 13:54:03 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 13 13:54:03 2013
+Use preference UI Lang is:zh_CN.Wed Nov 13 13:54:03 2013
+ReadProcessMemory fail=299
+Wed Nov 13 13:54:03 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 13 15:09:08 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 13 15:09:08 2013
+Use preference UI Lang is:zh_CN.Wed Nov 13 15:09:08 2013
+ReadProcessMemory fail=299
+Wed Nov 13 15:09:08 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 13 17:02:02 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 13 17:02:02 2013
+Use preference UI Lang is:zh_CN.Wed Nov 13 17:02:02 2013
+ReadProcessMemory fail=299
+Wed Nov 13 17:02:02 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 13 17:09:12 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 13 17:09:12 2013
+Use preference UI Lang is:zh_CN.Wed Nov 13 17:09:12 2013
+ReadProcessMemory fail=299
+Wed Nov 13 17:09:12 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 13 18:08:35 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 13 18:08:35 2013
+Use preference UI Lang is:zh_CN.Wed Nov 13 18:08:35 2013
+ReadProcessMemory fail=299
+Wed Nov 13 18:08:35 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 14 13:06:20 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 14 13:06:20 2013
+Use preference UI Lang is:zh_CN.Thu Nov 14 13:06:20 2013
+ReadProcessMemory fail=299
+Thu Nov 14 13:06:20 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 14 19:13:16 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 14 19:13:16 2013
+Use preference UI Lang is:zh_CN.Thu Nov 14 19:13:16 2013
+ReadProcessMemory fail=299
+Thu Nov 14 19:13:16 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 14 21:20:30 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 14 21:20:30 2013
+Use preference UI Lang is:zh_CN.Thu Nov 14 21:20:30 2013
+ReadProcessMemory fail=299
+Thu Nov 14 21:20:30 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 14 22:59:44 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 14 22:59:44 2013
+Use preference UI Lang is:zh_CN.Thu Nov 14 22:59:44 2013
+ReadProcessMemory fail=299
+Thu Nov 14 22:59:44 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 15 08:41:59 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 15 08:41:59 2013
+Use preference UI Lang is:zh_CN.Fri Nov 15 08:41:59 2013
+ReadProcessMemory fail=299
+Fri Nov 15 08:41:59 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 15 13:41:42 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 15 13:41:42 2013
+Use preference UI Lang is:zh_CN.Fri Nov 15 13:41:42 2013
+ReadProcessMemory fail=299
+Fri Nov 15 13:41:42 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 15 18:38:16 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 15 18:38:16 2013
+Use preference UI Lang is:zh_CN.Fri Nov 15 18:38:16 2013
+ReadProcessMemory fail=299
+Fri Nov 15 18:38:16 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 15 19:52:09 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 15 19:52:09 2013
+Use preference UI Lang is:zh_CN.Fri Nov 15 19:52:09 2013
+ReadProcessMemory fail=299
+Fri Nov 15 19:52:09 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 15 22:32:40 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 15 22:32:40 2013
+Use preference UI Lang is:zh_CN.Fri Nov 15 22:32:40 2013
+ReadProcessMemory fail=299
+Fri Nov 15 22:32:40 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%23398%29983%33410%92%23398%29983%33410%20462%25913%24847%35265%111%100%116%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Fri Nov 15 23:38:47 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 15 23:38:47 2013
+Use preference UI Lang is:zh_CN.Fri Nov 15 23:38:47 2013
+ReadProcessMemory fail=299
+Fri Nov 15 23:38:47 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 15 23:51:33 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 15 23:51:33 2013
+Use preference UI Lang is:zh_CN.Fri Nov 15 23:51:33 2013
+ReadProcessMemory fail=299
+Fri Nov 15 23:51:33 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Nov 16 14:57:42 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 16 14:57:42 2013
+Use preference UI Lang is:zh_CN.Sat Nov 16 14:57:42 2013
+ReadProcessMemory fail=299
+Sat Nov 16 14:57:42 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Nov 16 22:01:43 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 16 22:01:43 2013
+Use preference UI Lang is:zh_CN.Sat Nov 16 22:01:43 2013
+ReadProcessMemory fail=299
+Sat Nov 16 22:01:43 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%23398%29983%33410%92%23398%29983%33410%20462%25913%24847%35265%111%100%116%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 17 09:55:46 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 09:55:46 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 09:55:46 2013
+ReadProcessMemory fail=299
+Sun Nov 17 09:55:46 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Nov 17 10:44:59 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 10:44:59 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 10:44:59 2013
+ReadProcessMemory fail=299
+Sun Nov 17 10:44:59 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Nov 17 11:27:39 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 11:27:39 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 11:27:39 2013
+ReadProcessMemory fail=299
+Sun Nov 17 11:27:39 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Nov 17 20:34:30 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 20:34:30 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 20:34:30 2013
+ReadProcessMemory fail=299
+Sun Nov 17 20:34:30 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%66%105%110%103%90%104%117%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 17 20:43:17 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 20:43:17 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 20:43:17 2013
+ReadProcessMemory fail=299
+Sun Nov 17 20:43:17 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%87%101%110%103%117%97%110%103%67%104%101%110%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 17 20:51:22 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 20:51:22 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 20:51:22 2013
+ReadProcessMemory fail=299
+Sun Nov 17 20:51:22 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 17 23:03:57 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 23:03:57 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 23:03:57 2013
+ReadProcessMemory fail=299
+Sun Nov 17 23:03:57 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 17 23:14:05 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 23:14:05 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 23:14:05 2013
+ReadProcessMemory fail=299
+Sun Nov 17 23:14:05 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%87%101%110%103%117%97%110%103%67%104%101%110%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 17 23:52:07 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 17 23:52:07 2013
+Use preference UI Lang is:zh_CN.Sun Nov 17 23:52:07 2013
+ReadProcessMemory fail=299
+Sun Nov 17 23:52:07 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%80%83%95%77%117%121%97%110%103%95%89%97%111%95%118%53%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Mon Nov 18 22:10:53 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Nov 18 22:10:53 2013
+Use preference UI Lang is:zh_CN.Mon Nov 18 22:10:53 2013
+ReadProcessMemory fail=299
+Mon Nov 18 22:10:53 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Nov 19 21:12:50 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Nov 19 21:12:50 2013
+Use preference UI Lang is:zh_CN.Tue Nov 19 21:12:50 2013
+ReadProcessMemory fail=299
+Tue Nov 19 21:12:50 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 20 06:14:11 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 20 06:14:11 2013
+Use preference UI Lang is:zh_CN.Wed Nov 20 06:14:11 2013
+ReadProcessMemory fail=299
+Wed Nov 20 06:14:11 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 20 12:26:18 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 20 12:26:18 2013
+Use preference UI Lang is:zh_CN.Wed Nov 20 12:26:18 2013
+ReadProcessMemory fail=299
+Wed Nov 20 12:26:18 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 20 15:46:56 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 20 15:46:56 2013
+Use preference UI Lang is:zh_CN.Wed Nov 20 15:46:56 2013
+ReadProcessMemory fail=299
+Wed Nov 20 15:46:56 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 20 18:33:41 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 20 18:33:41 2013
+Use preference UI Lang is:zh_CN.Wed Nov 20 18:33:41 2013
+ReadProcessMemory fail=299
+Wed Nov 20 18:33:41 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 20 21:31:46 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 20 21:31:46 2013
+Use preference UI Lang is:zh_CN.Wed Nov 20 21:31:46 2013
+ReadProcessMemory fail=299
+Wed Nov 20 21:31:46 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 21 00:03:05 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 21 00:03:05 2013
+Use preference UI Lang is:zh_CN.Thu Nov 21 00:03:05 2013
+ReadProcessMemory fail=299
+Thu Nov 21 00:03:05 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%80%83%95%77%117%121%97%110%103%95%89%97%111%95%118%54%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Thu Nov 21 00:26:55 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 21 00:26:55 2013
+Use preference UI Lang is:zh_CN.Thu Nov 21 00:26:55 2013
+ReadProcessMemory fail=299
+Thu Nov 21 00:26:55 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%80%83%95%77%117%121%97%110%103%95%89%97%111%95%118%54%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Thu Nov 21 22:40:03 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 21 22:40:03 2013
+Use preference UI Lang is:zh_CN.Thu Nov 21 22:40:03 2013
+ReadProcessMemory fail=299
+Thu Nov 21 22:40:03 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 21 22:49:10 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 21 22:49:10 2013
+Use preference UI Lang is:zh_CN.Thu Nov 21 22:49:10 2013
+ReadProcessMemory fail=299
+Thu Nov 21 22:49:10 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Thu Nov 21 23:26:25 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 21 23:26:25 2013
+Use preference UI Lang is:zh_CN.Thu Nov 21 23:26:25 2013
+ReadProcessMemory fail=299
+Thu Nov 21 23:26:25 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%115%99%104%111%108%111%114%92%20013%22269%32463%27982%19987%39064%76%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Thu Nov 21 23:27:07 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 21 23:27:07 2013
+Use preference UI Lang is:zh_CN.Thu Nov 21 23:27:07 2013
+ReadProcessMemory fail=299
+Thu Nov 21 23:27:07 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Fri Nov 22 08:54:19 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 08:54:19 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 08:54:19 2013
+ReadProcessMemory fail=299
+Fri Nov 22 08:54:19 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 22 09:54:50 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 09:54:50 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 09:54:50 2013
+ReadProcessMemory fail=299
+Fri Nov 22 09:54:50 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 22 11:49:30 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 11:49:30 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 11:49:30 2013
+ReadProcessMemory fail=299
+Fri Nov 22 11:49:30 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 22 15:31:27 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 15:31:27 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 15:31:27 2013
+ReadProcessMemory fail=299
+Fri Nov 22 15:31:27 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 22 17:58:27 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 17:58:27 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 17:58:27 2013
+ReadProcessMemory fail=299
+Fri Nov 22 17:58:27 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Fri Nov 22 18:00:10 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 18:00:10 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 18:00:10 2013
+ReadProcessMemory fail=299
+Fri Nov 22 18:00:10 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Fri Nov 22 19:24:54 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 19:24:54 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 19:24:54 2013
+ReadProcessMemory fail=299
+Fri Nov 22 19:24:54 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 22 21:07:42 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 21:07:42 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 21:07:42 2013
+ReadProcessMemory fail=299
+Fri Nov 22 21:07:42 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Nov 22 22:18:28 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 22 22:18:28 2013
+Use preference UI Lang is:zh_CN.Fri Nov 22 22:18:28 2013
+ReadProcessMemory fail=299
+Fri Nov 22 22:18:28 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%115%99%104%111%108%111%114%92%20013%22269%32463%27982%19987%39064%76%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sat Nov 23 10:04:07 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 23 10:04:07 2013
+Use preference UI Lang is:zh_CN.Sat Nov 23 10:04:07 2013
+ReadProcessMemory fail=299
+Sat Nov 23 10:04:07 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Nov 23 13:51:28 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 23 13:51:28 2013
+Use preference UI Lang is:zh_CN.Sat Nov 23 13:51:28 2013
+ReadProcessMemory fail=299
+Sat Nov 23 13:51:28 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sat Nov 23 15:32:46 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 23 15:32:46 2013
+Use preference UI Lang is:zh_CN.Sat Nov 23 15:32:46 2013
+ReadProcessMemory fail=299
+Sat Nov 23 15:32:46 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sat Nov 23 16:08:53 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 23 16:08:53 2013
+Use preference UI Lang is:zh_CN.Sat Nov 23 16:08:53 2013
+ReadProcessMemory fail=299
+Sat Nov 23 16:08:53 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sat Nov 23 18:45:43 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 23 18:45:43 2013
+Use preference UI Lang is:zh_CN.Sat Nov 23 18:45:43 2013
+ReadProcessMemory fail=299
+Sat Nov 23 18:45:43 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%80%83%95%77%117%121%97%110%103%95%89%97%111%95%118%54%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sat Nov 23 20:17:51 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 23 20:17:51 2013
+Use preference UI Lang is:zh_CN.Sat Nov 23 20:17:51 2013
+ReadProcessMemory fail=299
+Sat Nov 23 20:17:51 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Nov 24 11:26:40 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 24 11:26:40 2013
+Use preference UI Lang is:zh_CN.Sun Nov 24 11:26:40 2013
+ReadProcessMemory fail=299
+Sun Nov 24 11:26:40 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Nov 24 20:36:35 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 24 20:36:35 2013
+Use preference UI Lang is:zh_CN.Sun Nov 24 20:36:35 2013
+ReadProcessMemory fail=299
+Sun Nov 24 20:36:35 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 24 21:33:57 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 24 21:33:57 2013
+Use preference UI Lang is:zh_CN.Sun Nov 24 21:33:57 2013
+ReadProcessMemory fail=299
+Sun Nov 24 21:33:57 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Nov 24 22:29:03 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Nov 24 22:29:03 2013
+Use preference UI Lang is:zh_CN.Sun Nov 24 22:29:03 2013
+ReadProcessMemory fail=299
+Sun Nov 24 22:29:03 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Nov 25 22:27:44 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Nov 25 22:27:44 2013
+Use preference UI Lang is:zh_CN.Mon Nov 25 22:27:44 2013
+ReadProcessMemory fail=299
+Mon Nov 25 22:27:44 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Nov 26 21:14:04 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Nov 26 21:14:04 2013
+Use preference UI Lang is:zh_CN.Tue Nov 26 21:14:04 2013
+ReadProcessMemory fail=299
+Tue Nov 26 21:14:04 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Nov 26 23:50:30 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Nov 26 23:50:30 2013
+Use preference UI Lang is:zh_CN.Tue Nov 26 23:50:30 2013
+ReadProcessMemory fail=299
+Tue Nov 26 23:50:30 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%114%101%99%111%109%109%101%110%100%97%116%105%111%110%95%108%101%116%116%101%114%95%72%111%110%103%98%105%110%103%77%97%95%118%49%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Wed Nov 27 12:14:28 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 27 12:14:28 2013
+Use preference UI Lang is:zh_CN.Wed Nov 27 12:14:28 2013
+ReadProcessMemory fail=299
+Wed Nov 27 12:14:28 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 27 14:17:41 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 27 14:17:41 2013
+Use preference UI Lang is:zh_CN.Wed Nov 27 14:17:41 2013
+ReadProcessMemory fail=299
+Wed Nov 27 14:17:41 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 27 15:20:00 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 27 15:20:00 2013
+Use preference UI Lang is:zh_CN.Wed Nov 27 15:20:00 2013
+ReadProcessMemory fail=299
+Wed Nov 27 15:20:00 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 27 16:08:59 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 27 16:08:59 2013
+Use preference UI Lang is:zh_CN.Wed Nov 27 16:08:59 2013
+ReadProcessMemory fail=299
+Wed Nov 27 16:08:59 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%80%83%95%77%117%121%97%110%103%95%89%97%111%95%118%54%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Wed Nov 27 18:33:57 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 27 18:33:57 2013
+Use preference UI Lang is:zh_CN.Wed Nov 27 18:33:57 2013
+ReadProcessMemory fail=299
+Wed Nov 27 18:33:57 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Nov 27 21:35:55 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Nov 27 21:35:55 2013
+Use preference UI Lang is:zh_CN.Wed Nov 27 21:35:55 2013
+ReadProcessMemory fail=299
+Wed Nov 27 21:35:55 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 28 08:50:07 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 28 08:50:07 2013
+Use preference UI Lang is:zh_CN.Thu Nov 28 08:50:07 2013
+ReadProcessMemory fail=299
+Thu Nov 28 08:50:07 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 28 15:06:30 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 28 15:06:30 2013
+Use preference UI Lang is:zh_CN.Thu Nov 28 15:06:30 2013
+ReadProcessMemory fail=299
+Thu Nov 28 15:06:30 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 28 18:32:51 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 28 18:32:55 2013
+Use preference UI Lang is:zh_CN.Thu Nov 28 18:32:55 2013
+ReadProcessMemory fail=299
+Thu Nov 28 18:32:55 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 28 20:20:41 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 28 20:20:41 2013
+Use preference UI Lang is:zh_CN.Thu Nov 28 20:20:41 2013
+ReadProcessMemory fail=299
+Thu Nov 28 20:20:41 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Nov 28 21:49:44 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Nov 28 21:49:44 2013
+Use preference UI Lang is:zh_CN.Thu Nov 28 21:49:44 2013
+ReadProcessMemory fail=299
+Thu Nov 28 21:49:44 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%80%83%95%77%117%121%97%110%103%95%89%97%111%95%118%51%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Fri Nov 29 23:10:04 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Nov 29 23:10:04 2013
+Use preference UI Lang is:zh_CN.Fri Nov 29 23:10:04 2013
+ReadProcessMemory fail=299
+Fri Nov 29 23:10:04 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Nov 30 12:01:26 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 30 12:01:26 2013
+Use preference UI Lang is:zh_CN.Sat Nov 30 12:01:26 2013
+ReadProcessMemory fail=299
+Sat Nov 30 12:01:26 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Nov 30 13:16:25 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 30 13:16:25 2013
+Use preference UI Lang is:zh_CN.Sat Nov 30 13:16:25 2013
+ReadProcessMemory fail=299
+Sat Nov 30 13:16:25 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Nov 30 17:28:30 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Nov 30 17:28:30 2013
+Use preference UI Lang is:zh_CN.Sat Nov 30 17:28:30 2013
+ReadProcessMemory fail=299
+Sat Nov 30 17:28:30 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 00:03:53 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 00:03:53 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 00:03:53 2013
+ReadProcessMemory fail=299
+Sun Dec 01 00:03:53 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 09:55:21 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 09:55:21 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 09:55:21 2013
+ReadProcessMemory fail=299
+Sun Dec 01 09:55:21 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 12:22:44 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 12:22:44 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 12:22:44 2013
+ReadProcessMemory fail=299
+Sun Dec 01 12:22:44 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 12:27:31 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 12:27:31 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 12:27:31 2013
+ReadProcessMemory fail=299
+Sun Dec 01 12:27:31 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 12:41:34 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 12:41:34 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 12:41:34 2013
+ReadProcessMemory fail=299
+Sun Dec 01 12:41:34 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 12:54:53 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 12:54:53 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 12:54:53 2013
+ReadProcessMemory fail=299
+Sun Dec 01 12:54:53 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 13:26:33 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 13:26:33 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 13:26:33 2013
+ReadProcessMemory fail=299
+Sun Dec 01 13:26:33 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 13:31:59 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 13:31:59 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 13:31:59 2013
+ReadProcessMemory fail=299
+Sun Dec 01 13:31:59 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 01 13:35:22 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 01 13:35:22 2013
+Use preference UI Lang is:zh_CN.Sun Dec 01 13:35:22 2013
+ReadProcessMemory fail=299
+Sun Dec 01 13:35:22 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 02 10:14:21 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 02 10:14:22 2013
+Use preference UI Lang is:zh_CN.Mon Dec 02 10:14:22 2013
+ReadProcessMemory fail=299
+Mon Dec 02 10:14:22 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 02 11:57:27 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 02 11:57:27 2013
+Use preference UI Lang is:zh_CN.Mon Dec 02 11:57:27 2013
+ReadProcessMemory fail=299
+Mon Dec 02 11:57:27 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 02 12:43:36 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 02 12:43:36 2013
+Use preference UI Lang is:zh_CN.Mon Dec 02 12:43:36 2013
+ReadProcessMemory fail=299
+Mon Dec 02 12:43:36 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 02 15:48:25 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 02 15:48:25 2013
+Use preference UI Lang is:zh_CN.Mon Dec 02 15:48:25 2013
+ReadProcessMemory fail=299
+Mon Dec 02 15:48:25 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 02 21:10:45 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 02 21:10:46 2013
+Use preference UI Lang is:zh_CN.Mon Dec 02 21:10:46 2013
+ReadProcessMemory fail=299
+Mon Dec 02 21:10:46 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 02 21:19:10 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 02 21:19:10 2013
+Use preference UI Lang is:zh_CN.Mon Dec 02 21:19:10 2013
+ReadProcessMemory fail=299
+Mon Dec 02 21:19:10 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 03 13:18:08 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 03 13:18:08 2013
+Use preference UI Lang is:zh_CN.Tue Dec 03 13:18:08 2013
+ReadProcessMemory fail=299
+Tue Dec 03 13:18:08 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 04 00:47:39 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 04 00:47:39 2013
+Use preference UI Lang is:zh_CN.Wed Dec 04 00:47:39 2013
+ReadProcessMemory fail=299
+Wed Dec 04 00:47:39 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 04 12:25:39 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 04 12:25:39 2013
+Use preference UI Lang is:zh_CN.Wed Dec 04 12:25:39 2013
+ReadProcessMemory fail=299
+Wed Dec 04 12:25:39 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 04 15:11:21 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 04 15:11:21 2013
+Use preference UI Lang is:zh_CN.Wed Dec 04 15:11:21 2013
+ReadProcessMemory fail=299
+Wed Dec 04 15:11:21 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 04 20:18:41 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 04 20:18:41 2013
+Use preference UI Lang is:zh_CN.Wed Dec 04 20:18:41 2013
+ReadProcessMemory fail=299
+Wed Dec 04 20:18:41 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 05 12:45:01 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 05 12:45:01 2013
+Use preference UI Lang is:zh_CN.Thu Dec 05 12:45:01 2013
+ReadProcessMemory fail=299
+Thu Dec 05 12:45:01 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 05 23:13:55 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 05 23:13:55 2013
+Use preference UI Lang is:zh_CN.Thu Dec 05 23:13:55 2013
+ReadProcessMemory fail=299
+Thu Dec 05 23:13:55 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 06 09:21:19 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 06 09:21:19 2013
+Use preference UI Lang is:zh_CN.Fri Dec 06 09:21:19 2013
+ReadProcessMemory fail=299
+Fri Dec 06 09:21:19 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 06 12:09:43 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 06 12:09:43 2013
+Use preference UI Lang is:zh_CN.Fri Dec 06 12:09:43 2013
+ReadProcessMemory fail=299
+Fri Dec 06 12:09:43 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 06 15:45:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 06 15:45:52 2013
+Use preference UI Lang is:zh_CN.Fri Dec 06 15:45:52 2013
+ReadProcessMemory fail=299
+Fri Dec 06 15:45:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 07 13:36:41 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 07 13:36:41 2013
+Use preference UI Lang is:zh_CN.Sat Dec 07 13:36:41 2013
+ReadProcessMemory fail=299
+Sat Dec 07 13:36:41 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 07 16:45:15 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 07 16:45:15 2013
+Use preference UI Lang is:zh_CN.Sat Dec 07 16:45:15 2013
+ReadProcessMemory fail=299
+Sat Dec 07 16:45:15 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 07 18:23:58 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 07 18:23:58 2013
+Use preference UI Lang is:zh_CN.Sat Dec 07 18:23:58 2013
+ReadProcessMemory fail=299
+Sat Dec 07 18:23:58 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 08 10:03:14 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 08 10:03:14 2013
+Use preference UI Lang is:zh_CN.Sun Dec 08 10:03:14 2013
+ReadProcessMemory fail=299
+Sun Dec 08 10:03:14 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 08 13:35:41 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 08 13:35:41 2013
+Use preference UI Lang is:zh_CN.Sun Dec 08 13:35:41 2013
+ReadProcessMemory fail=299
+Sun Dec 08 13:35:41 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 08 23:13:22 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 08 23:13:22 2013
+Use preference UI Lang is:zh_CN.Sun Dec 08 23:13:22 2013
+ReadProcessMemory fail=299
+Sun Dec 08 23:13:22 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 09 09:28:44 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 09 09:28:44 2013
+Use preference UI Lang is:zh_CN.Mon Dec 09 09:28:44 2013
+ReadProcessMemory fail=299
+Mon Dec 09 09:28:44 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 09 12:22:27 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 09 12:22:27 2013
+Use preference UI Lang is:zh_CN.Mon Dec 09 12:22:27 2013
+ReadProcessMemory fail=299
+Mon Dec 09 12:22:27 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 09 13:36:49 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 09 13:36:49 2013
+Use preference UI Lang is:zh_CN.Mon Dec 09 13:36:49 2013
+ReadProcessMemory fail=299
+Mon Dec 09 13:36:49 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%110%117%116%115%92%80%83%95%77%117%121%97%110%103%95%89%97%111%95%118%52%32%67%77%84%115%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Mon Dec 09 18:32:36 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 09 18:32:36 2013
+Use preference UI Lang is:zh_CN.Mon Dec 09 18:32:36 2013
+ReadProcessMemory fail=299
+Mon Dec 09 18:32:36 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 09 20:01:05 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 09 20:01:05 2013
+Use preference UI Lang is:zh_CN.Mon Dec 09 20:01:05 2013
+ReadProcessMemory fail=299
+Mon Dec 09 20:01:05 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 09 23:25:57 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 09 23:25:57 2013
+Use preference UI Lang is:zh_CN.Mon Dec 09 23:25:57 2013
+ReadProcessMemory fail=299
+Mon Dec 09 23:25:57 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 10 00:19:27 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 10 00:19:27 2013
+Use preference UI Lang is:zh_CN.Tue Dec 10 00:19:27 2013
+ReadProcessMemory fail=299
+Tue Dec 10 00:19:27 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 10 09:25:16 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 10 09:25:16 2013
+Use preference UI Lang is:zh_CN.Tue Dec 10 09:25:16 2013
+ReadProcessMemory fail=299
+Tue Dec 10 09:25:16 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 10 12:32:39 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 10 12:32:39 2013
+Use preference UI Lang is:zh_CN.Tue Dec 10 12:32:39 2013
+ReadProcessMemory fail=299
+Tue Dec 10 12:32:39 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 10 18:39:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 10 18:39:52 2013
+Use preference UI Lang is:zh_CN.Tue Dec 10 18:39:52 2013
+ReadProcessMemory fail=299
+Tue Dec 10 18:39:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 11 11:50:43 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 11 11:50:43 2013
+Use preference UI Lang is:zh_CN.Wed Dec 11 11:50:43 2013
+ReadProcessMemory fail=299
+Wed Dec 11 11:50:43 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 11 17:31:47 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 11 17:31:47 2013
+Use preference UI Lang is:zh_CN.Wed Dec 11 17:31:47 2013
+ReadProcessMemory fail=299
+Wed Dec 11 17:31:47 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 11 18:16:45 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 11 18:16:45 2013
+Use preference UI Lang is:zh_CN.Wed Dec 11 18:16:45 2013
+ReadProcessMemory fail=299
+Wed Dec 11 18:16:45 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 13 09:14:20 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 13 09:14:20 2013
+Use preference UI Lang is:zh_CN.Fri Dec 13 09:14:20 2013
+ReadProcessMemory fail=299
+Fri Dec 13 09:14:20 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 13 17:00:38 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 13 17:00:50 2013
+Use preference UI Lang is:zh_CN.Fri Dec 13 17:00:50 2013
+ReadProcessMemory fail=299
+Fri Dec 13 17:00:50 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 13 18:45:09 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 13 18:45:09 2013
+Use preference UI Lang is:zh_CN.Fri Dec 13 18:45:09 2013
+ReadProcessMemory fail=299
+Fri Dec 13 18:45:09 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 14 13:12:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 14 13:12:52 2013
+Use preference UI Lang is:zh_CN.Sat Dec 14 13:12:52 2013
+ReadProcessMemory fail=299
+Sat Dec 14 13:12:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 15 10:20:17 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 15 10:20:17 2013
+Use preference UI Lang is:zh_CN.Sun Dec 15 10:20:17 2013
+ReadProcessMemory fail=299
+Sun Dec 15 10:20:17 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 15 17:29:45 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 15 17:29:45 2013
+Use preference UI Lang is:zh_CN.Sun Dec 15 17:29:45 2013
+ReadProcessMemory fail=299
+Sun Dec 15 17:29:45 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 15 22:46:04 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 15 22:46:04 2013
+Use preference UI Lang is:zh_CN.Sun Dec 15 22:46:04 2013
+ReadProcessMemory fail=299
+Sun Dec 15 22:46:04 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 16 10:20:08 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 16 10:20:08 2013
+Use preference UI Lang is:zh_CN.Mon Dec 16 10:20:08 2013
+ReadProcessMemory fail=299
+Mon Dec 16 10:20:08 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 17 09:24:48 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 17 09:24:48 2013
+Use preference UI Lang is:zh_CN.Tue Dec 17 09:24:48 2013
+ReadProcessMemory fail=299
+Tue Dec 17 09:24:48 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 17 11:02:42 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 17 11:02:42 2013
+Use preference UI Lang is:zh_CN.Tue Dec 17 11:02:42 2013
+ReadProcessMemory fail=299
+Tue Dec 17 11:02:42 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 17 17:28:40 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 17 17:28:40 2013
+Use preference UI Lang is:zh_CN.Tue Dec 17 17:28:40 2013
+ReadProcessMemory fail=299
+Tue Dec 17 17:28:40 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 17 18:08:39 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 17 18:08:39 2013
+Use preference UI Lang is:zh_CN.Tue Dec 17 18:08:39 2013
+ReadProcessMemory fail=299
+Tue Dec 17 18:08:39 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 18 00:04:20 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 18 00:04:20 2013
+Use preference UI Lang is:zh_CN.Wed Dec 18 00:04:20 2013
+ReadProcessMemory fail=299
+Wed Dec 18 00:04:20 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 18 09:45:40 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 18 09:45:40 2013
+Use preference UI Lang is:zh_CN.Wed Dec 18 09:45:40 2013
+ReadProcessMemory fail=299
+Wed Dec 18 09:45:40 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 18 13:05:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 18 13:05:52 2013
+Use preference UI Lang is:zh_CN.Wed Dec 18 13:05:52 2013
+ReadProcessMemory fail=299
+Wed Dec 18 13:05:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 18 15:06:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 18 15:06:52 2013
+Use preference UI Lang is:zh_CN.Wed Dec 18 15:06:52 2013
+ReadProcessMemory fail=299
+Wed Dec 18 15:06:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 18 15:32:51 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 18 15:32:51 2013
+Use preference UI Lang is:zh_CN.Wed Dec 18 15:32:51 2013
+ReadProcessMemory fail=299
+Wed Dec 18 15:32:51 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 18 18:03:06 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 18 18:03:06 2013
+Use preference UI Lang is:zh_CN.Wed Dec 18 18:03:06 2013
+ReadProcessMemory fail=299
+Wed Dec 18 18:03:06 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 19 10:05:26 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 19 10:05:26 2013
+Use preference UI Lang is:zh_CN.Thu Dec 19 10:05:26 2013
+ReadProcessMemory fail=299
+Thu Dec 19 10:05:26 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 19 12:58:44 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 19 12:58:44 2013
+Use preference UI Lang is:zh_CN.Thu Dec 19 12:58:44 2013
+ReadProcessMemory fail=299
+Thu Dec 19 12:58:44 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 19 13:16:56 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 19 13:16:56 2013
+Use preference UI Lang is:zh_CN.Thu Dec 19 13:16:56 2013
+ReadProcessMemory fail=299
+Thu Dec 19 13:16:56 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 19 13:55:31 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 19 13:55:31 2013
+Use preference UI Lang is:zh_CN.Thu Dec 19 13:55:31 2013
+ReadProcessMemory fail=299
+Thu Dec 19 13:55:31 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 20 09:27:08 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 20 09:27:08 2013
+Use preference UI Lang is:zh_CN.Fri Dec 20 09:27:08 2013
+ReadProcessMemory fail=299
+Fri Dec 20 09:27:08 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 20 13:10:37 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 20 13:10:37 2013
+Use preference UI Lang is:zh_CN.Fri Dec 20 13:10:37 2013
+ReadProcessMemory fail=299
+Fri Dec 20 13:10:37 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 20 18:36:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 20 18:36:52 2013
+Use preference UI Lang is:zh_CN.Fri Dec 20 18:36:52 2013
+ReadProcessMemory fail=299
+Fri Dec 20 18:36:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 20 22:28:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 20 22:28:52 2013
+Use preference UI Lang is:zh_CN.Fri Dec 20 22:28:52 2013
+ReadProcessMemory fail=299
+Fri Dec 20 22:28:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 21 03:02:43 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 21 03:02:43 2013
+Use preference UI Lang is:zh_CN.Sat Dec 21 03:02:43 2013
+ReadProcessMemory fail=299
+Sat Dec 21 03:02:43 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 21 10:27:38 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 21 10:27:38 2013
+Use preference UI Lang is:zh_CN.Sat Dec 21 10:27:38 2013
+ReadProcessMemory fail=299
+Sat Dec 21 10:27:38 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 21 16:06:24 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 21 16:06:24 2013
+Use preference UI Lang is:zh_CN.Sat Dec 21 16:06:24 2013
+ReadProcessMemory fail=299
+Sat Dec 21 16:06:24 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 22 11:24:09 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 22 11:24:09 2013
+Use preference UI Lang is:zh_CN.Sun Dec 22 11:24:09 2013
+ReadProcessMemory fail=299
+Sun Dec 22 11:24:09 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 22 20:44:57 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 22 20:44:57 2013
+Use preference UI Lang is:zh_CN.Sun Dec 22 20:44:57 2013
+ReadProcessMemory fail=299
+Sun Dec 22 20:44:57 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 23 10:53:06 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 23 10:53:06 2013
+Use preference UI Lang is:zh_CN.Mon Dec 23 10:53:06 2013
+ReadProcessMemory fail=299
+Mon Dec 23 10:53:06 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 24 10:30:52 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 24 10:30:52 2013
+Use preference UI Lang is:zh_CN.Tue Dec 24 10:30:52 2013
+ReadProcessMemory fail=299
+Tue Dec 24 10:30:52 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 24 11:02:18 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 24 11:02:18 2013
+Use preference UI Lang is:zh_CN.Tue Dec 24 11:02:18 2013
+ReadProcessMemory fail=299
+Tue Dec 24 11:02:18 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 24 14:11:32 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 24 14:11:32 2013
+Use preference UI Lang is:zh_CN.Tue Dec 24 14:11:32 2013
+ReadProcessMemory fail=299
+Tue Dec 24 14:11:32 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 24 18:56:30 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 24 18:56:30 2013
+Use preference UI Lang is:zh_CN.Tue Dec 24 18:56:30 2013
+ReadProcessMemory fail=299
+Tue Dec 24 18:56:30 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 25 10:27:37 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 25 10:27:37 2013
+Use preference UI Lang is:zh_CN.Wed Dec 25 10:27:37 2013
+ReadProcessMemory fail=299
+Wed Dec 25 10:27:37 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Dec 25 13:41:27 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Dec 25 13:41:28 2013
+Use preference UI Lang is:zh_CN.Wed Dec 25 13:41:28 2013
+ReadProcessMemory fail=299
+Wed Dec 25 13:41:28 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 26 11:51:19 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 26 11:51:19 2013
+Use preference UI Lang is:zh_CN.Thu Dec 26 11:51:19 2013
+ReadProcessMemory fail=299
+Thu Dec 26 11:51:19 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 26 17:07:42 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 26 17:07:42 2013
+Use preference UI Lang is:zh_CN.Thu Dec 26 17:07:42 2013
+ReadProcessMemory fail=299
+Thu Dec 26 17:07:42 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 26 21:48:23 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 26 21:48:23 2013
+Use preference UI Lang is:zh_CN.Thu Dec 26 21:48:23 2013
+ReadProcessMemory fail=299
+Thu Dec 26 21:48:23 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Dec 26 23:24:32 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Dec 26 23:24:32 2013
+Use preference UI Lang is:zh_CN.Thu Dec 26 23:24:32 2013
+ReadProcessMemory fail=299
+Thu Dec 26 23:24:32 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 27 09:24:12 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 27 09:24:12 2013
+Use preference UI Lang is:zh_CN.Fri Dec 27 09:24:12 2013
+ReadProcessMemory fail=299
+Fri Dec 27 09:24:12 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 27 12:11:04 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 27 12:11:04 2013
+Use preference UI Lang is:zh_CN.Fri Dec 27 12:11:04 2013
+ReadProcessMemory fail=299
+Fri Dec 27 12:11:04 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 27 19:57:34 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 27 19:57:34 2013
+Use preference UI Lang is:zh_CN.Fri Dec 27 19:57:34 2013
+ReadProcessMemory fail=299
+Fri Dec 27 19:57:34 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Dec 27 22:06:38 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Dec 27 22:06:38 2013
+Use preference UI Lang is:zh_CN.Fri Dec 27 22:06:38 2013
+ReadProcessMemory fail=299
+Fri Dec 27 22:06:38 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 28 09:19:15 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 28 09:19:15 2013
+Use preference UI Lang is:zh_CN.Sat Dec 28 09:19:15 2013
+ReadProcessMemory fail=299
+Sat Dec 28 09:19:15 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 28 13:44:59 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 28 13:44:59 2013
+Use preference UI Lang is:zh_CN.Sat Dec 28 13:44:59 2013
+ReadProcessMemory fail=299
+Sat Dec 28 13:44:59 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Dec 28 13:53:01 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Dec 28 13:53:01 2013
+Use preference UI Lang is:zh_CN.Sat Dec 28 13:53:01 2013
+ReadProcessMemory fail=299
+Sat Dec 28 13:53:01 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Dec 29 10:47:06 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Dec 29 10:47:06 2013
+Use preference UI Lang is:zh_CN.Sun Dec 29 10:47:06 2013
+ReadProcessMemory fail=299
+Sun Dec 29 10:47:06 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 30 10:33:23 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 30 10:33:23 2013
+Use preference UI Lang is:zh_CN.Mon Dec 30 10:33:23 2013
+ReadProcessMemory fail=299
+Mon Dec 30 10:33:23 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Dec 30 18:14:46 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Dec 30 18:14:46 2013
+Use preference UI Lang is:zh_CN.Mon Dec 30 18:14:46 2013
+ReadProcessMemory fail=299
+Mon Dec 30 18:14:46 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 31 09:11:04 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 31 09:11:04 2013
+Use preference UI Lang is:zh_CN.Tue Dec 31 09:11:04 2013
+ReadProcessMemory fail=299
+Tue Dec 31 09:11:04 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Dec 31 12:10:31 2013
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Dec 31 12:10:31 2013
+Use preference UI Lang is:zh_CN.Tue Dec 31 12:10:31 2013
+ReadProcessMemory fail=299
+Tue Dec 31 12:10:31 2013
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Jan 01 00:14:12 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Jan 01 00:14:12 2014
+Use preference UI Lang is:zh_CN.Wed Jan 01 00:14:15 2014
+ReadProcessMemory fail=299
+Wed Jan 01 00:14:15 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Jan 01 21:44:59 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Jan 01 21:44:59 2014
+Use preference UI Lang is:zh_CN.Wed Jan 01 21:44:59 2014
+ReadProcessMemory fail=299
+Wed Jan 01 21:44:59 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 02 10:13:56 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 02 10:13:56 2014
+Use preference UI Lang is:zh_CN.Thu Jan 02 10:13:56 2014
+ReadProcessMemory fail=299
+Thu Jan 02 10:13:56 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+---------log message--------
+Thu Jan 02 15:20:48 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 02 15:20:48 2014
+Use preference UI Lang is:zh_CN.Thu Jan 02 15:20:48 2014
+ReadProcessMemory fail=299
+Thu Jan 02 15:20:48 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 02 18:38:40 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 02 18:38:40 2014
+Use preference UI Lang is:zh_CN.Thu Jan 02 18:38:41 2014
+ReadProcessMemory fail=299
+Thu Jan 02 18:38:41 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 02 21:14:23 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 02 21:14:23 2014
+Use preference UI Lang is:zh_CN.Thu Jan 02 21:14:23 2014
+ReadProcessMemory fail=299
+Thu Jan 02 21:14:23 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 03 12:10:47 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 03 12:10:47 2014
+Use preference UI Lang is:zh_CN.Fri Jan 03 12:10:47 2014
+ReadProcessMemory fail=299
+Fri Jan 03 12:10:47 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 03 15:37:05 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 03 15:37:05 2014
+Use preference UI Lang is:zh_CN.Fri Jan 03 15:37:05 2014
+ReadProcessMemory fail=299
+Fri Jan 03 15:37:05 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Jan 04 10:33:10 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Jan 04 10:33:10 2014
+Use preference UI Lang is:zh_CN.Sat Jan 04 10:33:10 2014
+ReadProcessMemory fail=299
+Sat Jan 04 10:33:10 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Jan 05 10:48:34 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 05 10:48:34 2014
+Use preference UI Lang is:zh_CN.Sun Jan 05 10:48:34 2014
+ReadProcessMemory fail=299
+Sun Jan 05 10:48:34 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Jan 05 21:18:23 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 05 21:18:23 2014
+Use preference UI Lang is:zh_CN.Sun Jan 05 21:18:23 2014
+ReadProcessMemory fail=299
+Sun Jan 05 21:18:23 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%115%99%104%111%108%111%114%92%21016%20255%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Sun Jan 05 21:19:28 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 05 21:19:28 2014
+Use preference UI Lang is:zh_CN.Sun Jan 05 21:19:28 2014
+ReadProcessMemory fail=299
+Sun Jan 05 21:19:28 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%115%99%104%111%108%111%114%92%26361%36828%24449%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Mon Jan 06 11:23:59 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Jan 06 11:23:59 2014
+Use preference UI Lang is:zh_CN.Mon Jan 06 11:23:59 2014
+ReadProcessMemory fail=299
+Mon Jan 06 11:23:59 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 07 10:11:22 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 07 10:11:22 2014
+Use preference UI Lang is:zh_CN.Tue Jan 07 10:11:22 2014
+ReadProcessMemory fail=299
+Tue Jan 07 10:11:22 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 07 11:59:22 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 07 11:59:22 2014
+Use preference UI Lang is:zh_CN.Tue Jan 07 11:59:22 2014
+ReadProcessMemory fail=299
+Tue Jan 07 11:59:22 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 07 13:37:26 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 07 13:37:26 2014
+Use preference UI Lang is:zh_CN.Tue Jan 07 13:37:26 2014
+ReadProcessMemory fail=299
+Tue Jan 07 13:37:26 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 07 16:06:27 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 07 16:06:27 2014
+Use preference UI Lang is:zh_CN.Tue Jan 07 16:06:27 2014
+ReadProcessMemory fail=299
+Tue Jan 07 16:06:27 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 07 16:42:48 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 07 16:42:48 2014
+Use preference UI Lang is:zh_CN.Tue Jan 07 16:42:48 2014
+ReadProcessMemory fail=299
+Tue Jan 07 16:42:48 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 07 23:38:39 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 07 23:38:39 2014
+Use preference UI Lang is:zh_CN.Tue Jan 07 23:38:39 2014
+ReadProcessMemory fail=299
+Tue Jan 07 23:38:39 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Jan 08 10:27:45 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Jan 08 10:27:45 2014
+Use preference UI Lang is:zh_CN.Wed Jan 08 10:27:45 2014
+ReadProcessMemory fail=299
+Wed Jan 08 10:27:45 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Jan 08 11:30:34 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Jan 08 11:30:34 2014
+Use preference UI Lang is:zh_CN.Wed Jan 08 11:30:34 2014
+ReadProcessMemory fail=299
+Wed Jan 08 11:30:34 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 09 10:18:55 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 09 10:18:55 2014
+Use preference UI Lang is:zh_CN.Thu Jan 09 10:18:55 2014
+ReadProcessMemory fail=299
+Thu Jan 09 10:18:55 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 09 13:23:26 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 09 13:23:26 2014
+Use preference UI Lang is:zh_CN.Thu Jan 09 13:23:26 2014
+ReadProcessMemory fail=299
+Thu Jan 09 13:23:26 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 09 16:41:21 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 09 16:41:21 2014
+Use preference UI Lang is:zh_CN.Thu Jan 09 16:41:21 2014
+ReadProcessMemory fail=299
+Thu Jan 09 16:41:21 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 09 22:57:46 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 09 22:57:46 2014
+Use preference UI Lang is:zh_CN.Thu Jan 09 22:57:46 2014
+ReadProcessMemory fail=299
+Thu Jan 09 22:57:46 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 10 12:00:01 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 10 12:00:01 2014
+Use preference UI Lang is:zh_CN.Fri Jan 10 12:00:01 2014
+ReadProcessMemory fail=299
+Fri Jan 10 12:00:01 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 10 21:01:29 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 10 21:01:29 2014
+Use preference UI Lang is:zh_CN.Fri Jan 10 21:01:29 2014
+ReadProcessMemory fail=299
+Fri Jan 10 21:01:29 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 10 22:09:34 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 10 22:09:34 2014
+Use preference UI Lang is:zh_CN.Fri Jan 10 22:09:34 2014
+ReadProcessMemory fail=299
+Fri Jan 10 22:09:34 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 10 23:47:42 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 10 23:47:42 2014
+Use preference UI Lang is:zh_CN.Fri Jan 10 23:47:42 2014
+ReadProcessMemory fail=299
+Fri Jan 10 23:47:42 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Jan 11 01:36:01 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Jan 11 01:36:01 2014
+Use preference UI Lang is:zh_CN.Sat Jan 11 01:36:01 2014
+ReadProcessMemory fail=299
+Sat Jan 11 01:36:01 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Jan 11 22:55:01 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Jan 11 22:55:01 2014
+Use preference UI Lang is:zh_CN.Sat Jan 11 22:55:01 2014
+ReadProcessMemory fail=299
+Sat Jan 11 22:55:01 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Jan 11 23:41:12 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Jan 11 23:41:12 2014
+Use preference UI Lang is:zh_CN.Sat Jan 11 23:41:12 2014
+ReadProcessMemory fail=299
+Sat Jan 11 23:41:12 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Jan 12 12:03:44 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 12 12:03:44 2014
+Use preference UI Lang is:zh_CN.Sun Jan 12 12:03:44 2014
+ReadProcessMemory fail=299
+Sun Jan 12 12:03:44 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Jan 12 14:13:33 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 12 14:13:33 2014
+Use preference UI Lang is:zh_CN.Sun Jan 12 14:13:33 2014
+ReadProcessMemory fail=299
+Sun Jan 12 14:13:33 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Jan 12 15:54:23 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 12 15:54:23 2014
+Use preference UI Lang is:zh_CN.Sun Jan 12 15:54:23 2014
+ReadProcessMemory fail=299
+Sun Jan 12 15:54:23 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Jan 12 21:13:40 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 12 21:13:40 2014
+Use preference UI Lang is:zh_CN.Sun Jan 12 21:13:40 2014
+ReadProcessMemory fail=299
+Sun Jan 12 21:13:40 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Jan 13 10:36:28 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Jan 13 10:36:28 2014
+Use preference UI Lang is:zh_CN.Mon Jan 13 10:36:28 2014
+ReadProcessMemory fail=299
+Mon Jan 13 10:36:28 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Jan 13 10:50:37 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Jan 13 10:50:37 2014
+Use preference UI Lang is:zh_CN.Mon Jan 13 10:50:37 2014
+ReadProcessMemory fail=299
+Mon Jan 13 10:50:37 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Jan 13 11:05:19 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Jan 13 11:05:19 2014
+Use preference UI Lang is:zh_CN.Mon Jan 13 11:05:19 2014
+ReadProcessMemory fail=299
+Mon Jan 13 11:05:19 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 14 09:21:14 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 14 09:21:14 2014
+Use preference UI Lang is:zh_CN.Tue Jan 14 09:21:14 2014
+ReadProcessMemory fail=299
+Tue Jan 14 09:21:14 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 14 11:25:11 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 14 11:25:11 2014
+Use preference UI Lang is:zh_CN.Tue Jan 14 11:25:11 2014
+ReadProcessMemory fail=299
+Tue Jan 14 11:25:11 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 24 23:22:10 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 24 23:22:10 2014
+Use preference UI Lang is:zh_CN.Fri Jan 24 23:22:10 2014
+ReadProcessMemory fail=299
+Fri Jan 24 23:22:10 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Jan 26 23:31:33 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Jan 26 23:31:33 2014
+Use preference UI Lang is:zh_CN.Sun Jan 26 23:31:33 2014
+ReadProcessMemory fail=299
+Sun Jan 26 23:31:33 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Jan 27 08:16:00 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Jan 27 08:16:01 2014
+Use preference UI Lang is:zh_CN.Mon Jan 27 08:16:01 2014
+ReadProcessMemory fail=299
+Mon Jan 27 08:16:01 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 28 09:55:58 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 28 09:55:58 2014
+Use preference UI Lang is:zh_CN.Tue Jan 28 09:55:58 2014
+ReadProcessMemory fail=299
+Tue Jan 28 09:55:58 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Jan 28 21:35:06 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Jan 28 21:35:06 2014
+Use preference UI Lang is:zh_CN.Tue Jan 28 21:35:06 2014
+ReadProcessMemory fail=299
+Tue Jan 28 21:35:06 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Jan 29 19:56:25 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Jan 29 19:56:25 2014
+Use preference UI Lang is:zh_CN.Wed Jan 29 19:56:25 2014
+ReadProcessMemory fail=299
+Wed Jan 29 19:56:25 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Jan 30 17:33:43 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Jan 30 17:33:43 2014
+Use preference UI Lang is:zh_CN.Thu Jan 30 17:33:43 2014
+ReadProcessMemory fail=299
+Thu Jan 30 17:33:43 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 31 11:53:37 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 31 11:53:38 2014
+Use preference UI Lang is:zh_CN.Fri Jan 31 11:53:38 2014
+ReadProcessMemory fail=299
+Fri Jan 31 11:53:38 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Jan 31 11:57:32 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Jan 31 11:57:32 2014
+Use preference UI Lang is:zh_CN.Fri Jan 31 11:57:32 2014
+ReadProcessMemory fail=299
+Fri Jan 31 11:57:32 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Feb 01 16:33:18 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Feb 01 16:33:18 2014
+Use preference UI Lang is:zh_CN.Sat Feb 01 16:33:18 2014
+ReadProcessMemory fail=299
+Sat Feb 01 16:33:18 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 02 09:56:59 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 02 09:56:59 2014
+Use preference UI Lang is:zh_CN.Sun Feb 02 09:56:59 2014
+ReadProcessMemory fail=299
+Sun Feb 02 09:56:59 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 02 21:10:34 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 02 21:10:34 2014
+Use preference UI Lang is:zh_CN.Sun Feb 02 21:10:34 2014
+ReadProcessMemory fail=299
+Sun Feb 02 21:10:34 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 02 22:09:32 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 02 22:09:32 2014
+Use preference UI Lang is:zh_CN.Sun Feb 02 22:09:32 2014
+ReadProcessMemory fail=299
+Sun Feb 02 22:09:32 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 02 22:18:52 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 02 22:18:52 2014
+Use preference UI Lang is:zh_CN.Sun Feb 02 22:18:52 2014
+ReadProcessMemory fail=299
+Sun Feb 02 22:18:52 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 02 23:01:03 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 02 23:01:03 2014
+Use preference UI Lang is:zh_CN.Sun Feb 02 23:01:03 2014
+ReadProcessMemory fail=299
+Sun Feb 02 23:01:03 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 03 17:44:43 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 03 17:44:43 2014
+Use preference UI Lang is:zh_CN.Mon Feb 03 17:44:43 2014
+ReadProcessMemory fail=299
+Mon Feb 03 17:44:43 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 03 18:21:57 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 03 18:21:57 2014
+Use preference UI Lang is:zh_CN.Mon Feb 03 18:21:57 2014
+ReadProcessMemory fail=299
+Mon Feb 03 18:21:57 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 03 21:14:57 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 03 21:14:57 2014
+Use preference UI Lang is:zh_CN.Mon Feb 03 21:14:57 2014
+ReadProcessMemory fail=299
+Mon Feb 03 21:14:57 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 03 22:20:54 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 03 22:20:54 2014
+Use preference UI Lang is:zh_CN.Mon Feb 03 22:20:54 2014
+ReadProcessMemory fail=299
+Mon Feb 03 22:20:54 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 03 22:35:26 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 03 22:35:26 2014
+Use preference UI Lang is:zh_CN.Mon Feb 03 22:35:26 2014
+ReadProcessMemory fail=299
+Mon Feb 03 22:35:26 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 03 23:09:27 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 03 23:09:27 2014
+Use preference UI Lang is:zh_CN.Mon Feb 03 23:09:27 2014
+ReadProcessMemory fail=299
+Mon Feb 03 23:09:27 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 03 23:50:55 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 03 23:50:55 2014
+Use preference UI Lang is:zh_CN.Mon Feb 03 23:50:55 2014
+ReadProcessMemory fail=299
+Mon Feb 03 23:50:55 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 04 16:55:36 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 04 16:55:36 2014
+Use preference UI Lang is:zh_CN.Tue Feb 04 16:55:36 2014
+ReadProcessMemory fail=299
+Tue Feb 04 16:55:36 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 05 09:55:25 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 05 09:55:25 2014
+Use preference UI Lang is:zh_CN.Wed Feb 05 09:55:25 2014
+ReadProcessMemory fail=299
+Wed Feb 05 09:55:25 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Feb 06 09:19:39 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Feb 06 09:19:39 2014
+Use preference UI Lang is:zh_CN.Thu Feb 06 09:19:39 2014
+ReadProcessMemory fail=299
+Thu Feb 06 09:19:39 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Feb 07 10:00:05 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Feb 07 10:00:06 2014
+Use preference UI Lang is:zh_CN.Fri Feb 07 10:00:06 2014
+ReadProcessMemory fail=299
+Fri Feb 07 10:00:06 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Feb 08 00:00:22 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Feb 08 00:00:22 2014
+Use preference UI Lang is:zh_CN.Sat Feb 08 00:00:22 2014
+ReadProcessMemory fail=299
+Sat Feb 08 00:00:22 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Feb 08 10:17:16 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Feb 08 10:17:16 2014
+Use preference UI Lang is:zh_CN.Sat Feb 08 10:17:16 2014
+ReadProcessMemory fail=299
+Sat Feb 08 10:17:16 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 09 17:45:55 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 09 17:45:55 2014
+Use preference UI Lang is:zh_CN.Sun Feb 09 17:45:55 2014
+ReadProcessMemory fail=299
+Sun Feb 09 17:45:55 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 10 09:48:27 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 10 09:48:27 2014
+Use preference UI Lang is:zh_CN.Mon Feb 10 09:48:27 2014
+ReadProcessMemory fail=299
+Mon Feb 10 09:48:27 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 10 17:03:04 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 10 17:03:04 2014
+Use preference UI Lang is:zh_CN.Mon Feb 10 17:03:04 2014
+ReadProcessMemory fail=299
+Mon Feb 10 17:03:04 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 10 23:48:09 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 10 23:48:09 2014
+Use preference UI Lang is:zh_CN.Mon Feb 10 23:48:09 2014
+ReadProcessMemory fail=299
+Mon Feb 10 23:48:09 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 11 11:08:20 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 11 11:08:20 2014
+Use preference UI Lang is:zh_CN.Tue Feb 11 11:08:20 2014
+ReadProcessMemory fail=299
+Tue Feb 11 11:08:20 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Feb 13 00:06:08 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Feb 13 00:06:08 2014
+Use preference UI Lang is:zh_CN.Thu Feb 13 00:06:08 2014
+ReadProcessMemory fail=299
+Thu Feb 13 00:06:08 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Feb 13 00:16:14 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Feb 13 00:16:14 2014
+Use preference UI Lang is:zh_CN.Thu Feb 13 00:16:14 2014
+ReadProcessMemory fail=299
+Thu Feb 13 00:16:14 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Feb 13 08:33:04 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Feb 13 08:33:04 2014
+Use preference UI Lang is:zh_CN.Thu Feb 13 08:33:04 2014
+ReadProcessMemory fail=299
+Thu Feb 13 08:33:04 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Feb 13 14:56:28 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Feb 13 14:56:28 2014
+Use preference UI Lang is:zh_CN.Thu Feb 13 14:56:28 2014
+ReadProcessMemory fail=299
+Thu Feb 13 14:56:28 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Feb 14 00:36:54 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Feb 14 00:36:54 2014
+Use preference UI Lang is:zh_CN.Fri Feb 14 00:36:54 2014
+ReadProcessMemory fail=299
+Fri Feb 14 00:36:54 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Feb 14 16:32:56 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Feb 14 16:32:56 2014
+Use preference UI Lang is:zh_CN.Fri Feb 14 16:32:56 2014
+ReadProcessMemory fail=299
+Fri Feb 14 16:32:56 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Feb 14 20:53:40 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Feb 14 20:53:40 2014
+Use preference UI Lang is:zh_CN.Fri Feb 14 20:53:40 2014
+ReadProcessMemory fail=299
+Fri Feb 14 20:53:40 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 16 09:58:38 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 16 09:58:38 2014
+Use preference UI Lang is:zh_CN.Sun Feb 16 09:58:38 2014
+ReadProcessMemory fail=299
+Sun Feb 16 09:58:38 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 16 20:57:31 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 16 20:57:31 2014
+Use preference UI Lang is:zh_CN.Sun Feb 16 20:57:31 2014
+ReadProcessMemory fail=299
+Sun Feb 16 20:57:31 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 16 22:04:28 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 16 22:04:28 2014
+Use preference UI Lang is:zh_CN.Sun Feb 16 22:04:28 2014
+ReadProcessMemory fail=299
+Sun Feb 16 22:04:28 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 17 09:21:49 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 17 09:21:49 2014
+Use preference UI Lang is:zh_CN.Mon Feb 17 09:21:49 2014
+ReadProcessMemory fail=299
+Mon Feb 17 09:21:49 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 18 10:49:27 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 18 10:49:27 2014
+Use preference UI Lang is:zh_CN.Tue Feb 18 10:49:27 2014
+ReadProcessMemory fail=299
+Tue Feb 18 10:49:27 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 19 01:34:27 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 19 01:34:27 2014
+Use preference UI Lang is:zh_CN.Wed Feb 19 01:34:27 2014
+ReadProcessMemory fail=299
+Wed Feb 19 01:34:27 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 19 10:57:06 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 19 10:57:06 2014
+Use preference UI Lang is:zh_CN.Wed Feb 19 10:57:06 2014
+ReadProcessMemory fail=299
+Wed Feb 19 10:57:06 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Feb 21 19:21:16 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Feb 21 19:21:16 2014
+Use preference UI Lang is:zh_CN.Fri Feb 21 19:21:16 2014
+ReadProcessMemory fail=299
+Fri Feb 21 19:21:16 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Feb 22 10:33:40 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Feb 22 10:33:40 2014
+Use preference UI Lang is:zh_CN.Sat Feb 22 10:33:40 2014
+ReadProcessMemory fail=299
+Sat Feb 22 10:33:40 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Feb 23 10:49:19 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Feb 23 10:49:19 2014
+Use preference UI Lang is:zh_CN.Sun Feb 23 10:49:19 2014
+ReadProcessMemory fail=299
+Sun Feb 23 10:49:19 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 24 09:38:48 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 24 09:38:48 2014
+Use preference UI Lang is:zh_CN.Mon Feb 24 09:38:48 2014
+ReadProcessMemory fail=299
+Mon Feb 24 09:38:48 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Feb 24 17:30:09 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Feb 24 17:30:09 2014
+Use preference UI Lang is:zh_CN.Mon Feb 24 17:30:09 2014
+ReadProcessMemory fail=299
+Mon Feb 24 17:30:09 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 09:52:36 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 09:52:36 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 09:52:36 2014
+ReadProcessMemory fail=299
+Tue Feb 25 09:52:36 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 09:57:27 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 09:57:27 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 09:57:27 2014
+ReadProcessMemory fail=299
+Tue Feb 25 09:57:27 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 12:41:44 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 12:41:44 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 12:41:44 2014
+ReadProcessMemory fail=299
+Tue Feb 25 12:41:44 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 13:04:09 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 13:04:09 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 13:04:09 2014
+ReadProcessMemory fail=299
+Tue Feb 25 13:04:09 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%73%66%77%92%65%112%112%83%99%97%110%32%83%116%97%110%100%97%114%100%92%100%111%99%117%109%101%110%116%92%65%112%112%83%99%97%110%95%83%116%97%110%100%97%114%100%95%68%111%99%117%109%101%110%116%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Tue Feb 25 13:04:24 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 13:04:24 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 13:04:24 2014
+ReadProcessMemory fail=299
+Tue Feb 25 13:04:24 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%73%66%77%92%65%112%112%83%99%97%110%32%83%111%117%114%99%101%92%68%111%99%117%109%101%110%116%115%92%65%112%112%83%99%97%110%32%68%111%99%117%109%101%110%116%115%32%118%50%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Tue Feb 25 13:21:05 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 13:21:05 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 13:21:05 2014
+ReadProcessMemory fail=299
+Tue Feb 25 13:21:05 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%73%66%77%92%65%112%112%83%99%97%110%32%83%116%97%110%100%97%114%100%92%100%111%99%117%109%101%110%116%92%65%112%112%83%99%97%110%95%83%116%97%110%100%97%114%100%95%68%111%99%117%109%101%110%116%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Tue Feb 25 14:33:20 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 14:33:20 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 14:33:20 2014
+ReadProcessMemory fail=299
+Tue Feb 25 14:33:20 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 67%58%92%85%115%101%114%115%92%77%117%121%97%110%103%92%65%112%112%68%97%116%97%92%76%111%99%97%108%92%77%105%99%114%111%115%111%102%116%92%87%105%110%100%111%119%115%92%84%101%109%112%111%114%97%114%121%32%73%110%116%101%114%110%101%116%32%70%105%108%101%115%92%67%111%110%116%101%110%116%46%79%117%116%108%111%111%107%92%54%51%76%77%52%76%48%79%92%99%111%110%116%97%99%116%46%111%100%115 -filename_empty_flag false '.
+
+
+---------log message--------
+Tue Feb 25 16:08:53 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 16:08:53 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 16:08:53 2014
+ReadProcessMemory fail=299
+Tue Feb 25 16:08:53 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 16:31:40 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 16:31:40 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 16:31:40 2014
+ReadProcessMemory fail=299
+Tue Feb 25 16:31:40 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -e -config existfile_symphony -file 70%58%92%37329%23665%24555%30424%92%73%66%77%92%65%112%112%83%99%97%110%32%83%111%117%114%99%101%92%68%111%99%117%109%101%110%116%115%92%65%112%112%83%99%97%110%32%68%111%99%117%109%101%110%116%115%32%118%50%46%111%100%116 -filename_empty_flag false '.
+
+
+---------log message--------
+Tue Feb 25 19:20:34 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 19:20:34 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 19:20:34 2014
+ReadProcessMemory fail=299
+Tue Feb 25 19:20:34 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 20:17:54 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 20:17:55 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 20:17:55 2014
+ReadProcessMemory fail=299
+Tue Feb 25 20:17:55 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 20:33:03 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 20:33:03 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 20:33:03 2014
+ReadProcessMemory fail=299
+Tue Feb 25 20:33:03 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Feb 25 21:17:03 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Feb 25 21:17:03 2014
+Use preference UI Lang is:zh_CN.Tue Feb 25 21:17:03 2014
+ReadProcessMemory fail=299
+Tue Feb 25 21:17:03 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 26 09:37:40 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 26 09:37:40 2014
+Use preference UI Lang is:zh_CN.Wed Feb 26 09:37:40 2014
+ReadProcessMemory fail=299
+Wed Feb 26 09:37:40 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 26 12:56:12 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 26 12:56:12 2014
+Use preference UI Lang is:zh_CN.Wed Feb 26 12:56:12 2014
+ReadProcessMemory fail=299
+Wed Feb 26 12:56:12 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 26 15:51:35 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 26 15:51:36 2014
+Use preference UI Lang is:zh_CN.Wed Feb 26 15:51:36 2014
+ReadProcessMemory fail=299
+Wed Feb 26 15:51:36 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 26 18:36:53 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 26 18:36:53 2014
+Use preference UI Lang is:zh_CN.Wed Feb 26 18:36:53 2014
+ReadProcessMemory fail=299
+Wed Feb 26 18:36:53 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Feb 26 19:25:03 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Feb 26 19:25:04 2014
+Use preference UI Lang is:zh_CN.Wed Feb 26 19:25:04 2014
+ReadProcessMemory fail=299
+Wed Feb 26 19:25:04 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Feb 27 09:07:54 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Feb 27 09:07:55 2014
+Use preference UI Lang is:zh_CN.Thu Feb 27 09:07:55 2014
+ReadProcessMemory fail=299
+Thu Feb 27 09:07:55 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Feb 27 09:14:18 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Feb 27 09:14:18 2014
+Use preference UI Lang is:zh_CN.Thu Feb 27 09:14:18 2014
+ReadProcessMemory fail=299
+Thu Feb 27 09:14:18 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Feb 28 10:45:50 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Feb 28 10:45:50 2014
+Use preference UI Lang is:zh_CN.Fri Feb 28 10:45:50 2014
+ReadProcessMemory fail=299
+Fri Feb 28 10:45:50 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Feb 28 16:15:49 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Feb 28 16:15:49 2014
+Use preference UI Lang is:zh_CN.Fri Feb 28 16:15:49 2014
+ReadProcessMemory fail=299
+Fri Feb 28 16:15:49 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Mar 01 00:29:28 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Mar 01 00:29:29 2014
+Use preference UI Lang is:zh_CN.Sat Mar 01 00:29:29 2014
+ReadProcessMemory fail=299
+Sat Mar 01 00:29:29 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Mar 01 00:43:58 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Mar 01 00:43:59 2014
+Use preference UI Lang is:zh_CN.Sat Mar 01 00:43:59 2014
+ReadProcessMemory fail=299
+Sat Mar 01 00:43:59 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Mar 01 11:04:07 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Mar 01 11:04:07 2014
+Use preference UI Lang is:zh_CN.Sat Mar 01 11:04:07 2014
+ReadProcessMemory fail=299
+Sat Mar 01 11:04:07 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Mar 01 14:23:04 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Mar 01 14:23:04 2014
+Use preference UI Lang is:zh_CN.Sat Mar 01 14:23:04 2014
+ReadProcessMemory fail=299
+Sat Mar 01 14:23:04 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Mar 01 21:53:03 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Mar 01 21:53:03 2014
+Use preference UI Lang is:zh_CN.Sat Mar 01 21:53:03 2014
+ReadProcessMemory fail=299
+Sat Mar 01 21:53:03 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Mar 02 19:35:47 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Mar 02 19:35:47 2014
+Use preference UI Lang is:zh_CN.Sun Mar 02 19:35:47 2014
+ReadProcessMemory fail=299
+Sun Mar 02 19:35:47 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Mar 03 14:15:04 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Mar 03 14:15:04 2014
+Use preference UI Lang is:zh_CN.Mon Mar 03 14:15:04 2014
+ReadProcessMemory fail=299
+Mon Mar 03 14:15:04 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Mar 03 18:20:27 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Mar 03 18:20:27 2014
+Use preference UI Lang is:zh_CN.Mon Mar 03 18:20:27 2014
+ReadProcessMemory fail=299
+Mon Mar 03 18:20:27 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Tue Mar 04 12:29:46 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Tue Mar 04 12:29:46 2014
+Use preference UI Lang is:zh_CN.Tue Mar 04 12:29:46 2014
+ReadProcessMemory fail=299
+Tue Mar 04 12:29:46 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Mar 05 09:42:15 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Mar 05 09:42:15 2014
+Use preference UI Lang is:zh_CN.Wed Mar 05 09:42:15 2014
+ReadProcessMemory fail=299
+Wed Mar 05 09:42:15 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Wed Mar 05 12:46:33 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Wed Mar 05 12:46:33 2014
+Use preference UI Lang is:zh_CN.Wed Mar 05 12:46:33 2014
+ReadProcessMemory fail=299
+Wed Mar 05 12:46:33 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Mar 06 09:39:35 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Mar 06 09:39:35 2014
+Use preference UI Lang is:zh_CN.Thu Mar 06 09:39:35 2014
+ReadProcessMemory fail=299
+Thu Mar 06 09:39:35 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Thu Mar 06 18:46:03 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Thu Mar 06 18:46:03 2014
+Use preference UI Lang is:zh_CN.Thu Mar 06 18:46:03 2014
+ReadProcessMemory fail=299
+Thu Mar 06 18:46:03 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Mar 07 09:42:21 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Mar 07 09:42:21 2014
+Use preference UI Lang is:zh_CN.Fri Mar 07 09:42:21 2014
+ReadProcessMemory fail=299
+Fri Mar 07 09:42:21 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Mar 07 17:11:44 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Mar 07 17:11:44 2014
+Use preference UI Lang is:zh_CN.Fri Mar 07 17:11:44 2014
+ReadProcessMemory fail=299
+Fri Mar 07 17:11:44 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Mar 07 18:59:35 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Mar 07 18:59:35 2014
+Use preference UI Lang is:zh_CN.Fri Mar 07 18:59:35 2014
+ReadProcessMemory fail=299
+Fri Mar 07 18:59:35 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Fri Mar 07 22:09:21 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Fri Mar 07 22:09:21 2014
+Use preference UI Lang is:zh_CN.Fri Mar 07 22:09:21 2014
+ReadProcessMemory fail=299
+Fri Mar 07 22:09:21 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sat Mar 08 08:59:34 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sat Mar 08 08:59:34 2014
+Use preference UI Lang is:zh_CN.Sat Mar 08 08:59:34 2014
+ReadProcessMemory fail=299
+Sat Mar 08 08:59:34 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Mar 09 10:15:29 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Mar 09 10:15:29 2014
+Use preference UI Lang is:zh_CN.Sun Mar 09 10:15:29 2014
+ReadProcessMemory fail=299
+Sun Mar 09 10:15:29 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Sun Mar 09 14:10:01 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Sun Mar 09 14:10:01 2014
+Use preference UI Lang is:zh_CN.Sun Mar 09 14:10:01 2014
+ReadProcessMemory fail=299
+Sun Mar 09 14:10:01 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Mar 10 09:42:55 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Mar 10 09:42:55 2014
+Use preference UI Lang is:zh_CN.Mon Mar 10 09:42:55 2014
+ReadProcessMemory fail=299
+Mon Mar 10 09:42:55 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.
+
+
+---------log message--------
+Mon Mar 10 10:43:52 2014
+The rcp path got from relative program path is: D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe, which exists.
+Mon Mar 10 10:43:52 2014
+Use preference UI Lang is:zh_CN.Mon Mar 10 10:43:52 2014
+ReadProcessMemory fail=299
+Mon Mar 10 10:43:52 2014
+Command line: '"D:\Program Files (x86)\IBM\Lotus\Symphony\framework\rcp\rcplauncher.exe" -nogui -nosplash -config symphony '.

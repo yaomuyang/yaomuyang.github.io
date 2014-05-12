@@ -1,0 +1,6 @@
+[user]
+	name = yaomuyang
+	email = yaomuyang1992@gmail.com
+[credential "git@github.com:yaomuyang/yaomuyang.github.io.git"]
+	helper = yaomuyang
+	username = yaomuyang
